@@ -48,6 +48,7 @@ ol, ul {
   text-align: center;
   color: #04F404;
   background-image: url("/images/Basalt-01.jpeg");
+  background-size: cover;
   padding: 20% 0.2rem;
   width: 4rem;
   height: 4rem;
